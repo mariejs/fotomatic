@@ -132,7 +132,7 @@ header .mobile {
   justify-content: flex-start;
   align-items: center;
   height: 43.5rem;
-  background-image: url(/Users/mariakochetkova/Documents/Projects/Fotomatic/resources/images/banner-landingpage.jpg);
+  background-image: url(https://mariejs.github.io/fotomatic/resources/images/banner-landingpage.jpg);
   background-repeat: no-repeat;
 }
 
